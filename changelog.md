@@ -1,4 +1,6 @@
 # avoidthehack Privacy Browser Comparison Tool
+##1.6
+* Added Default Search Provider column
 
 ## 1.5.8
 * Added Mull browser and IceRaven browsers
