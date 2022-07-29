@@ -26,3 +26,4 @@ Firedragon,Community driven,Gecko,Open source,No,Yes; ClearURLS and uBlock Origi
 Srware Iron,SrWare,Chromium,Part open source,?,Yes,Javascript only,?,must be disabled,Windows; macOS; Linux; Android,?,?,Yes,must be enabled,Chromium extensions,?
 IceRaven,Community driven,Gecko,Open source,?,?,Javascript only,Yes,must be disabled,Android,No,?,Yes,must be enabled,?,DuckDuckGo
 Mull Browser,DivestOS,Gecko,Open source,No,?,Javascript only,Yes,must be disabled,Android,No,No,Yes,must be enabled,?,DuckDuckGo
+Ghostery Dawn,Ghostery GmbH,Open source,?, Yes; Ghostery Ad Blocker,?,must be disabled,Windows; MacOS; Linux,No,?,Yes,must be enabled,Firefox add-ons,Ghostery Glow  
