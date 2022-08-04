@@ -1,5 +1,8 @@
 # avoidthehack Privacy Browser Comparison Tool
-##1.6
+## 1.65
+* Added browsers.json - the data directly called by the table
+* Added Ghostery Dawn browser
+## 1.6
 * Added Default Search Provider column
 
 ## 1.5.8
