@@ -25,9 +25,9 @@ This is because the hardening process with these browsers can be tedious, requir
 If you're not familiar with the perils of using browsers like Microsoft and Google Chrome, then please get familiar with how these browsers are terrible for privacy @ the [avoidthehack Privacy Browsers page](https://avoidthehack.com/tools/privacy-browsers)
 
 ### Where is TOR?
-Since TOR is configured to run on the onion network, that it makes it a completely different animal from the browsers shown here. This isn't necessarily an overly "good" or "bad" thing - just that TOR is different enough to not be included here.
+Since TOR is configured to run on the onion network, that it makes it a completely different animal from the browsers shown here. This isn't necessarily an overly "good" or "bad" thing - just that TOR is _different enough_ to not be included here.
 
-TOR has many unique characteristics about it, especially the technology behind the `.onion` network and its relay hops.
+TOR has many unique characteristics about and surrounding it, especially the technology behind the `.onion` network and its relay hops. TOR can be used to browse the clearnet, deepweb, and the "darknet."
 
 TOR is generally recommended as the de facto standard for users looking to be **anonymous** while browsing.
 
@@ -45,7 +45,7 @@ The information in this table is open source. Because of this, we encourage _eve
 * Add new information (to include browsers, table columns, etc)
 * Correct exiting information
 
-Any contributions, no matter how big or small is welcomed!
+Any contributions, no matter how big or small are 100% welcomed!
 
 **Share this table!**
 
