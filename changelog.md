@@ -1,4 +1,7 @@
 # avoidthehack Privacy Browser Comparison Tool
+## 1.66
+* Added Kiwi browser
+
 ## 1.65
 * Added browsers.json - the data directly called by the table
 * Added Ghostery Dawn browser
