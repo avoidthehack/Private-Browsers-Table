@@ -643,6 +643,30 @@
       "infoa": "Forked from Firefox and hardened",
       "infob": "Ships with the Ghostery browser plugin",
       "search": "Ghostery Glow"
+            },
+            {
+
+      "id": "29",
+      "logo": "/util/browser-comparison/kiwi.png",
+      "browser": "Kiwi browser",
+      "developer": "Geometry OU",
+      "engine": "Chromium",
+      "source": "Open source",
+      "telemetry": "?",
+      "track": "Yes; built-in solution",
+      "script": "?",
+      "fingerprint": "?",
+      "webrtc": "must be disabled",
+      "availability": "Android",
+      "sync": "No",
+      "google": "?",
+      "https": "Yes",
+      "doh": "must be enabled",
+      "extensions": "Chromium Extensions",
+      "ath": "-",
+      "infoa": "Designed for power users",
+      "infob": "Claims to block cryptominers",
+      "search": "Google search"
             }
   ]
 }
