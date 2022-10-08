@@ -1,5 +1,5 @@
 Browser,Developer,Engine,Source code,Telemetry,Tracker Blocking    more info,Script blocking,Fingerprinting protection,Disable WebRTC    more info,Availability,Sync,Google services?,Force HTTPS    more info,DoH support,Extension Compatibility,Default Search
-Firefox,Mozilla,Gecko,Open source,Yes; opt out,Yes; limited,Javascript only,must be enabled,Yes; must be enabled,Windows; macOS; Linux; Android; iOS,Yes,Location; search,must be enabled,must be enabled,Firefox Add-ons,DuckDuckGo
+Firefox,Mozilla,Gecko,Open source,Yes; opt out,Yes; limited,Javascript only,must be enabled,Yes; must be enabled,Windows; macOS; Linux; Android; iOS,Yes,Location; search,must be enabled,must be enabled,Firefox Add-ons,Google
 Brave,Brave Software,Chromium,Open source,Yes; opt-out,Yes; limited,Javascript only,Yes,Only anonymize,Windows; macOS; Linux; Android; iOS,Yes,Proxied with Brave services,Yes,must be enabled,Chromium extensions,Brave Search
 Librewolf,Community driven,Gecko,Open source,No,Yes; uBlock Origin,Javascript only,Yes,Yes,Windows; macOS; Linux,No,No,Yes,must be enabled,Firefox add-ons,DuckDuckGo
 Ungoogled Chromium,Community driven,Chromium,Open source,No,No,Javascript only,must be enabled,Only anonymize,Windows; macOS; Linux,No,No,Yes,must be enabled,Chromium add-ons,NoSearch
