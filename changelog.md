@@ -1,4 +1,8 @@
 # avoidthehack Privacy Browser Comparison Tool
+## 1.67
+* Fixed paths for browser icon images
+* Changed Firefox default search provider from DuckDuckGo to Google
+
 ## 1.66
 * Added Kiwi browser
 
