@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "1",
-      "logo": "/util/browser-comparison/firefoxlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/firefoxlogo.png",
       "browser": "Firefox",
       "developer": "Mozilla",
       "engine": "Gecko",
@@ -18,14 +18,14 @@
       "https": "must be enabled",
       "doh": "must be enabled",
       "extensions": "Firefox Add-ons",
-      "ath": "<a class='btn btn-info' href='/firefox-privacy-config'>Harden Firefox</a>",
+      "ath": "<a class='button' href='/firefox-privacy-config'>Harden Firefox</a>",
       "infoa": "5.1% of total desktop browser market share in 2021",
       "infob": "Forked from the now defunct Mozilla browser in 2004",
       "search": "DuckDuckGo"
     },
     {
       "id": "2",
-      "logo": "/util/browser-comparison/bravelogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/bravelogo.png",
       "browser": "Brave",
       "developer": "Brave Software",
       "engine": "Chromium",
@@ -41,14 +41,14 @@
       "https": "Yes",
       "doh": "must be enabled",
       "extensions": "Chromium extensions",
-      "ath": "<a class='btn btn-info' href='/review-brave-browser'>Review</a>",
+      "ath": "<a class='button' href='/review-brave-browser'>Review</a>",
       "infoa": "Features an opt-in, built-in cryptowallet with a BAT ecosystem",
       "infob": "Brave Software, the company behind Brave, has been implicated in a couple of different privacy scandals over recent years",
       "search": "Brave Search"
     },
     {
       "id": "3",
-      "logo": "/util/browser-comparison/librewolflogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/librewolflogo.png",
       "browser": "Librewolf",
       "developer": "Community driven",
       "engine": "Gecko",
@@ -64,14 +64,14 @@
       "https": "Yes",
       "doh": "must be enabled",
       "extensions": "Firefox add-ons",
-      "ath": "<a class='btn btn-info' href='/install-librewolf'>Install Guide</a>",
+      "ath": "<a class='button' href='/install-librewolf'>Install Guide</a>",
       "infoa": "Forked from Firefox, continuation of the now defunct LibreFox project",
       "infob": "Features pre-configured about:config tweaks",
       "search": "DuckDuckGo"
     },
         {
       "id": "4",
-      "logo": "/util/browser-comparison/chromiumlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/chromiumlogo.png",
       "browser": "Ungoogled Chromium",
       "developer": "Community driven",
       "engine": "Chromium",
@@ -87,14 +87,14 @@
       "https": "Yes",
       "doh": "must be enabled",
       "extensions": "Chromium add-ons",
-      "ath": "<a class='btn btn-info' href='/how-to-install-configure-ungoogled-chromium'>Install Guide</a>",
+      "ath": "<a class='button' href='/how-to-install-configure-ungoogled-chromium'>Install Guide</a>",
       "infoa": "In addition to 'de-googling,' also tweaked for enhanced security",
       "infob": "Keeps up with Chromium source code updates",
       "search": "NoSearch"
     },
         {
       "id": "5",
-      "logo": "/util/browser-comparison/waterfoxlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/waterfoxlogo.png",
       "browser": "Waterfox",
       "developer": "Community driven",
       "engine": "Gecko",
@@ -110,14 +110,14 @@
       "https": "Yes",
       "doh": "must be enabled",
       "extensions": "Firefox add-ons",
-      "ath": "<a class='btn btn-info' href='/review-waterfox-browser'>Review</a>",
+      "ath": "<a class='button' href='/review-waterfox-browser'>Review</a>",
       "infoa": "Fork of Firefox, has two versions: G3 (current Firefox) and Classic (based on pre-Quantum Firefox source code)",
       "infob": "Acquired by System1 in late 2019",
       "search": "Bing"
     },
         {
       "id": "6",
-      "logo": "/util/browser-comparison/vivaldilogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/vivaldilogo.png",
       "browser": "Vivaldi",
       "developer": "Vivaldi Technologies",
       "engine": "Chromium",
@@ -133,14 +133,14 @@
       "https": "Yes",
       "doh": "must be enabled",
       "extensions": "Chromium add-ons",
-      "ath": "<a class='btn btn-info' href='/review-vivaldi-browser'>Review</a>",
+      "ath": "<a class='button' href='/review-vivaldi-browser'>Review</a>",
       "infoa": "Can be considered a continuation of the 'original' Opera browser",
       "infob": "Has many 'power user' features, highly customizable",
       "search": "Bing"
     },
         {
       "id": "7",
-      "logo": "/util/browser-comparison/palemoonlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/palemoonlogo.png",
       "browser": "Pale Moon",
       "developer": "Moonchild Productions",
       "engine": "Goanna",
@@ -156,14 +156,14 @@
       "https": "Yes",
       "doh": "-",
       "extensions": "Goanna add-ons",
-      "ath": "<a class='btn btn-info' href='/pale-moon-browser-review'>Review</a>",
+      "ath": "<a class='button' href='/pale-moon-browser-review'>Review</a>",
       "infoa": "Powered by the UXP platform, which is a fork of Mozilla's now defunct XUL",
       "infob": "Highly customizable",
       "search": "DuckDuckGo"
     },
         {
       "id": "8",
-      "logo": "/util/browser-comparison/iridiumlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/iridiumlogo.png",
       "browser": "Iridium",
       "developer": "NETitwork GmbH",
       "engine": "Chromium",
@@ -179,14 +179,14 @@
       "https": "Yes",
       "doh": "must be enabled",
       "extensions": "Chromium extensions - limited",
-      "ath": "<a class='btn btn-info' href='/review-iridium-browser'>Review</a>",
+      "ath": "<a class='button' href='/review-iridium-browser'>Review</a>",
       "infoa": "Updates appear to be on the slower side",
       "infob": "Features a number of security tweaks",
       "search": "Bing"
     },
         {
       "id": "9",
-      "logo": "/util/browser-comparison/duckduckgologo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/duckduckgologo.png",
       "browser": "DuckDuckGo Mobile Browser",
       "developer": "DuckDuckGo",
       "engine": "WebKit/Blink",
@@ -202,14 +202,14 @@
       "https": "Yes",
       "doh": "No",
       "extensions": "-",
-      "ath": "<a class='btn btn-info' href='/review-duckduckgo-mobile-browser'>Review</a>",
+      "ath": "<a class='button' href='/review-duckduckgo-mobile-browser'>Review</a>",
       "infoa": "Rumored desktop version 'coming soon'",
       "infob": "Has a fast and streamlined interface",
       "search": "DuckDuckGo"
     },
         {
       "id": "10",
-      "logo": "/util/browser-comparison/firefoxfocuslogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/firefoxfocuslogo.png",
       "browser": "Firefox Focus",
       "developer": "Mozilla",
       "engine": "Gecko",
@@ -225,14 +225,14 @@
       "https": "Yes",
       "doh": "No",
       "extensions": "No",
-      "ath": "<a class='btn btn-info' href='/review-what-is-firefox-focus'>Review</a>",
+      "ath": "<a class='button' href='/review-what-is-firefox-focus'>Review</a>",
       "infoa": "Can integrate its blocking capabilities with Safari",
       "infob": "Does not feature tab management (no multiple tabs)",
       "search": "DuckDuckGo"
     },
         {
       "id": "11",
-      "logo": "/util/browser-comparison/icecatlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/icecatlogo.png",
       "browser": "GNU Icecat",
       "developer": "GNUzilla",
       "engine": "Gecko",
@@ -255,7 +255,7 @@
     },
         {
       "id": "12",
-      "logo": "/util/browser-comparison/snowhazelogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/snowhazelogo.png",
       "browser": "SnowHaze",
       "developer": "Illotros GmbH",
       "engine": "WebKit",
@@ -271,14 +271,14 @@
       "https": "must be enabled",
       "doh": "must be enabled",
       "extensions": "No",
-      "ath": "<a class='btn btn-info' href='/review-snowhaze-mobile-browser'>Review</a>",
+      "ath": "<a class='button' href='/review-snowhaze-mobile-browser'>Review</a>",
       "infoa": "Features a built-in, optional paid VPN",
       "infob": "Allows for different settings for different tabs",
       "search": "Google"
     },
         {
       "id": "13",
-      "logo": "/util/browser-comparison/falkonlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/falkonlogo.png",
       "browser": "Falkon",
       "developer": "KDE",
       "engine": "QT WebEngine/Chromium",
@@ -301,7 +301,7 @@
     },
         {
       "id": "14",
-      "logo": "/util/browser-comparison/bromitelogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/bromitelogo.png",
       "browser": "Bromite",
       "developer": "Community driven",
       "engine": "Blink/Chromium",
@@ -324,7 +324,7 @@
     },
         {
       "id": "15",
-      "logo": "/util/browser-comparison/minbrowserlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/minbrowserlogo.png",
       "browser": "Min Browser",
       "developer": "Community driven",
       "engine": "Chromium",
@@ -347,7 +347,7 @@
     },
         {
       "id": "16",
-      "logo": "/util/browser-comparison/stoutnerlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/stoutnerlogo.png",
       "browser": "Privacy Browser (Stoutner)",
       "developer": "Soren Stoutner",
       "engine": "Blink",
@@ -370,7 +370,7 @@
     },
         {
       "id": "17",
-      "logo": "/util/browser-comparison/epicbrowserlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/epicbrowserlogo.png",
       "browser": "Epic Browser",
       "developer": "Hidden Reflex",
       "engine": "Chromium",
@@ -393,7 +393,7 @@
     },
         {
       "id": "18",
-      "logo": "/util/browser-comparison/pumalogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/pumalogo.png",
       "browser": "Puma Browser",
       "developer": "Puma Technologies",
       "engine": "WebKit",
@@ -416,7 +416,7 @@
     },
         {
       "id": "19",
-      "logo": "/util/browser-comparison/insightlogo.jpg",
+      "logo": "/user/pages/03.util/01.browser-comparison/insightlogo.jpg",
       "browser": "Insight Browser",
       "developer": "Laso Technologies Inc",
       "engine": "WebKit",
@@ -439,7 +439,7 @@
     },
         {
       "id": "20",
-      "logo": "/util/browser-comparison/badwolflogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/badwolflogo.png",
       "browser": "Badwolf",
       "developer": "Hacktivis (Ianodan)",
       "engine": "WebKit",
@@ -462,7 +462,7 @@
     },
         {
       "id": "21",
-      "logo": "/util/browser-comparison/otterlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/otterlogo.png",
       "browser": "Otter Browser",
       "developer": "Community driven",
       "engine": "QT WebEngine",
@@ -485,7 +485,7 @@
     },
         {
       "id": "22",
-      "logo": "/util/browser-comparison/avastlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/avastlogo.png",
       "browser": "Avast Secure Browser",
       "developer": "Avast Software",
       "engine": "Chromium",
@@ -508,7 +508,7 @@
     },
         {
       "id": "23",
-      "logo": "/util/browser-comparison/operalogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/operalogo.png",
       "browser": "Opera",
       "developer": "Opera Software",
       "engine": "Chromium",
@@ -531,7 +531,7 @@
     },
         {
       "id": "24",
-      "logo": "/util/browser-comparison/firedragonlogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/firedragonlogo.png",
       "browser": "Firedragon",
       "developer": "Community driven",
       "engine": "Gecko",
@@ -554,7 +554,7 @@
     },
         {
       "id": "25",
-      "logo": "/util/browser-comparison/srwarelogo.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/srwarelogo.png",
       "browser": "Srware Iron",
       "developer": "SrWare",
       "engine": "Chromium",
@@ -577,7 +577,7 @@
     },
         {
       "id": "26",
-      "logo": "/util/browser-comparison/iceravenlogo1.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/iceravenlogo1.png",
       "browser": "IceRaven",
       "developer": "Community driven",
       "engine": "Gecko",
@@ -600,7 +600,7 @@
     },
         {
       "id": "27",
-      "logo": "/util/browser-comparison/fdroid.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/fdroid.png",
       "browser": "Mull Browser",
       "developer": "DivestOS",
       "engine": "Gecko",
@@ -623,7 +623,7 @@
             },
         {
       "id": "28",
-      "logo": "/util/browser-comparison/ghostery.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/ghostery.png",
       "browser": "Ghostery Dawn",
       "developer": "Ghostery GmbH",
       "engine": "Gecko",
@@ -647,7 +647,7 @@
             {
 
       "id": "29",
-      "logo": "/util/browser-comparison/kiwi.png",
+      "logo": "/user/pages/03.util/01.browser-comparison/kiwi.png",
       "browser": "Kiwi browser",
       "developer": "Geometry OU",
       "engine": "Chromium",
