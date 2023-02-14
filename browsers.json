@@ -667,6 +667,52 @@
       "infoa": "Designed for power users",
       "infob": "Claims to block cryptominers",
       "search": "Google search"
-            }
+            },
+    {
+      "id": "30",
+      "logo": "/user/pages/03.util/01.browser-comparison/comododragon.png",
+      "browser": "Dragon",
+      "developer": "Comodo",
+      "engine": "Chromium",
+      "source": "Part closed, part open source",
+      "telemetry": "Yes",
+      "track": "?",
+      "script": "Javascript only",
+      "fingerprint": "?",
+      "webrtc": "Only anonymize",
+      "availability": "Windows",
+      "sync": "No",
+      "google": "Replaced",
+      "https": "?",
+      "doh": "must be enabled",
+      "extensions": "?",
+      "ath": "-",
+      "infoa": "Initially released in 2010",
+      "infob": "Sister browser to Comodo IceDragon",
+      "search": "?"
+    },
+{
+      "id": "31",
+      "logo": "/user/pages/03.util/01.browser-comparison/soulbrowser.png",
+      "browser": "Dragon",
+      "developer": "SoulSoft",
+      "engine": "Chromium",
+      "source": "Part closed, part open source",
+      "telemetry": "?",
+      "track": "Yes",
+      "script": "?",
+      "fingerprint": "?",
+      "webrtc": "Only anonymize",
+      "availability": "Android",
+      "sync": "No",
+      "google": "?",
+      "https": "?",
+      "doh": "?",
+      "extensions": "?",
+      "ath": "-",
+      "infoa": "Adblocker is compatible with EasyList and AdGuard",
+      "infob": "Claims to have torrent and video download support",
+      "search": "?"
+    }
   ]
 }
