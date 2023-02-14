@@ -1,4 +1,10 @@
 # avoidthehack Privacy Browser Comparison Tool
+
+## 1.70
+* Fixed paths for open/close icons (so they're actually visible)
+* Added Soul browser
+* Added Comodo Dragon
+
 ## 1.67
 * Fixed paths for browser icon images
 * Changed Firefox default search provider from DuckDuckGo to Google
