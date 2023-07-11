@@ -14,7 +14,7 @@ dash (-) = N/A
 
 **"must be enabled"** = feature is present, but not enabled by default
 
-? = unknown/information missing (contribute!)
+? = unknown/information missing (feel free to open an issue with the appropriate information)
 
 ## FAQ
 ### Where is Chrome, Edge, Safari?
@@ -25,29 +25,33 @@ This is because the hardening process with these browsers can be tedious, requir
 If you're not familiar with the perils of using browsers like Microsoft and Google Chrome, then please get familiar with how these browsers are terrible for privacy @ the [avoidthehack Privacy Browsers page](https://avoidthehack.com/tools/privacy-browsers)
 
 ### Where is TOR?
-Since TOR is configured to run on the onion network, that it makes it a completely different animal from the browsers shown here. This isn't necessarily an overly "good" or "bad" thing - just that TOR is _different enough_ to not be included here.
+Since TOR is configured to run on the onion (Tor) network, this makes it a completely different animal from just about every browser found here. This isn't necessarily an overly "good" or "bad" thing - just that TOR is _different enough_ to not be included here.
 
 TOR has many unique characteristics about and surrounding it, especially the technology behind the `.onion` network and its relay hops. TOR can be used to browse the clearnet, deepweb, and the "darknet."
 
-TOR is generally recommended as the de facto standard for users looking to be **anonymous** while browsing.
+TOR is generally recommended as the de facto standard for users looking to be **anonymous** while browsing. The browsers listed here may provide some privacy or security benefits, but generally do not provide anonymity.
 
 More information on TOR:
 * [Official TOR Project](https://www.torproject.org/)
 
+### What happened to the CSV file?
+The CSV file was deleted.
+
+Users interested in a work around can visit the table where it lives at [avoidthehack](https://avoidthehack.com/util/browser-comparison) and use the "Copy" button to copy the rows (or export to Excel).
 
 ## How to Contribute
 
 **The Privacy Browser Comparison Table**
 
-The information in this table is open source. Because of this, we encourage _everyone_ to:
+The information in this table is open-source. Any and everyone is encouraged to:
 
 * Add missing information
 * Add new information (to include browsers, table columns, etc)
-* Correct exiting information
+* Correct existing information
 
 Any contributions, no matter how big or small are 100% welcomed!
 
-**Share this table!**
+## Share this table!
 
 To help users in deciding which privacy browsers they want to use, it's highly encouraged to share this table!
 
