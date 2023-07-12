@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "1",
-      "logo": "/user/pages/03.util/01.browser-comparison/firefoxlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/firefoxlogo.png",
       "browser": "Firefox",
       "developer": "Mozilla",
       "engine": "Gecko",
@@ -25,7 +25,7 @@
     },
     {
       "id": "2",
-      "logo": "/user/pages/03.util/01.browser-comparison/bravelogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/bravelogo.png",
       "browser": "Brave",
       "developer": "Brave Software",
       "engine": "Chromium",
@@ -48,7 +48,7 @@
     },
     {
       "id": "3",
-      "logo": "/user/pages/03.util/01.browser-comparison/librewolflogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/librewolflogo.png",
       "browser": "Librewolf",
       "developer": "Community driven",
       "engine": "Gecko",
@@ -71,7 +71,7 @@
     },
         {
       "id": "4",
-      "logo": "/user/pages/03.util/01.browser-comparison/chromiumlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/chromiumlogo.png",
       "browser": "Ungoogled Chromium",
       "developer": "Community driven",
       "engine": "Chromium",
@@ -94,9 +94,9 @@
     },
         {
       "id": "5",
-      "logo": "/user/pages/03.util/01.browser-comparison/waterfoxlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/waterfoxlogo.png",
       "browser": "Waterfox",
-      "developer": "Community driven",
+      "developer": "Alex Kontos (Community driven)",
       "engine": "Gecko",
       "source": "Open source",
       "telemetry": "No",
@@ -112,12 +112,12 @@
       "extensions": "Firefox add-ons",
       "ath": "<a class='button' href='/review-waterfox-browser'>Review</a>",
       "infoa": "Fork of Firefox, has two versions: G3 (current Firefox) and Classic (based on pre-Quantum Firefox source code)",
-      "infob": "Acquired by System1 in late 2019",
+      "infob": "Acquired by System1 in late 2019 - as of July 2023 has returned to independent status",
       "search": "Bing"
     },
         {
       "id": "6",
-      "logo": "/user/pages/03.util/01.browser-comparison/vivaldilogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/vivaldilogo.png",
       "browser": "Vivaldi",
       "developer": "Vivaldi Technologies",
       "engine": "Chromium",
@@ -140,7 +140,7 @@
     },
         {
       "id": "7",
-      "logo": "/user/pages/03.util/01.browser-comparison/palemoonlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/palemoonlogo.png",
       "browser": "Pale Moon",
       "developer": "Moonchild Productions",
       "engine": "Goanna",
@@ -163,7 +163,7 @@
     },
         {
       "id": "8",
-      "logo": "/user/pages/03.util/01.browser-comparison/iridiumlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/iridiumlogo.png",
       "browser": "Iridium",
       "developer": "NETitwork GmbH",
       "engine": "Chromium",
@@ -186,7 +186,7 @@
     },
         {
       "id": "9",
-      "logo": "/user/pages/03.util/01.browser-comparison/duckduckgologo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/duckduckgologo.png",
       "browser": "DuckDuckGo Mobile Browser",
       "developer": "DuckDuckGo",
       "engine": "WebKit/Blink",
@@ -209,7 +209,7 @@
     },
         {
       "id": "10",
-      "logo": "/user/pages/03.util/01.browser-comparison/firefoxfocuslogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/firefoxfocuslogo.png",
       "browser": "Firefox Focus",
       "developer": "Mozilla",
       "engine": "Gecko",
@@ -232,7 +232,7 @@
     },
         {
       "id": "11",
-      "logo": "/user/pages/03.util/01.browser-comparison/icecatlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/icecatlogo.png",
       "browser": "GNU Icecat",
       "developer": "GNUzilla",
       "engine": "Gecko",
@@ -255,7 +255,7 @@
     },
         {
       "id": "12",
-      "logo": "/user/pages/03.util/01.browser-comparison/snowhazelogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/snowhazelogo.png",
       "browser": "SnowHaze",
       "developer": "Illotros GmbH",
       "engine": "WebKit",
@@ -278,7 +278,7 @@
     },
         {
       "id": "13",
-      "logo": "/user/pages/03.util/01.browser-comparison/falkonlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/falkonlogo.png",
       "browser": "Falkon",
       "developer": "KDE",
       "engine": "QT WebEngine/Chromium",
@@ -301,7 +301,7 @@
     },
         {
       "id": "14",
-      "logo": "/user/pages/03.util/01.browser-comparison/bromitelogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/bromitelogo.png",
       "browser": "Bromite",
       "developer": "Community driven",
       "engine": "Blink/Chromium",
@@ -324,7 +324,7 @@
     },
         {
       "id": "15",
-      "logo": "/user/pages/03.util/01.browser-comparison/minbrowserlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/minbrowserlogo.png",
       "browser": "Min Browser",
       "developer": "Community driven",
       "engine": "Chromium",
@@ -347,7 +347,7 @@
     },
         {
       "id": "16",
-      "logo": "/user/pages/03.util/01.browser-comparison/stoutnerlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/stoutnerlogo.png",
       "browser": "Privacy Browser (Stoutner)",
       "developer": "Soren Stoutner",
       "engine": "Blink",
@@ -370,7 +370,7 @@
     },
         {
       "id": "17",
-      "logo": "/user/pages/03.util/01.browser-comparison/epicbrowserlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/epicbrowserlogo.png",
       "browser": "Epic Browser",
       "developer": "Hidden Reflex",
       "engine": "Chromium",
@@ -393,7 +393,7 @@
     },
         {
       "id": "18",
-      "logo": "/user/pages/03.util/01.browser-comparison/pumalogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/pumalogo.png",
       "browser": "Puma Browser",
       "developer": "Puma Technologies",
       "engine": "WebKit",
@@ -416,7 +416,7 @@
     },
         {
       "id": "19",
-      "logo": "/user/pages/03.util/01.browser-comparison/insightlogo.jpg",
+      "logo": "/user/pages/03.util/04.browser-comparison/insightlogo.jpg",
       "browser": "Insight Browser",
       "developer": "Laso Technologies Inc",
       "engine": "WebKit",
@@ -439,7 +439,7 @@
     },
         {
       "id": "20",
-      "logo": "/user/pages/03.util/01.browser-comparison/badwolflogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/badwolflogo.png",
       "browser": "Badwolf",
       "developer": "Hacktivis (Ianodan)",
       "engine": "WebKit",
@@ -462,7 +462,7 @@
     },
         {
       "id": "21",
-      "logo": "/user/pages/03.util/01.browser-comparison/otterlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/otterlogo.png",
       "browser": "Otter Browser",
       "developer": "Community driven",
       "engine": "QT WebEngine",
@@ -485,7 +485,7 @@
     },
         {
       "id": "22",
-      "logo": "/user/pages/03.util/01.browser-comparison/avastlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/avastlogo.png",
       "browser": "Avast Secure Browser",
       "developer": "Avast Software",
       "engine": "Chromium",
@@ -508,7 +508,7 @@
     },
         {
       "id": "23",
-      "logo": "/user/pages/03.util/01.browser-comparison/operalogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/operalogo.png",
       "browser": "Opera",
       "developer": "Opera Software",
       "engine": "Chromium",
@@ -531,7 +531,7 @@
     },
         {
       "id": "24",
-      "logo": "/user/pages/03.util/01.browser-comparison/firedragonlogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/firedragonlogo.png",
       "browser": "Firedragon",
       "developer": "Community driven",
       "engine": "Gecko",
@@ -554,7 +554,7 @@
     },
         {
       "id": "25",
-      "logo": "/user/pages/03.util/01.browser-comparison/srwarelogo.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/srwarelogo.png",
       "browser": "Srware Iron",
       "developer": "SrWare",
       "engine": "Chromium",
@@ -577,7 +577,7 @@
     },
         {
       "id": "26",
-      "logo": "/user/pages/03.util/01.browser-comparison/iceravenlogo1.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/iceravenlogo1.png",
       "browser": "IceRaven",
       "developer": "Community driven",
       "engine": "Gecko",
@@ -600,7 +600,7 @@
     },
         {
       "id": "27",
-      "logo": "/user/pages/03.util/01.browser-comparison/fdroid.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/fdroid.png",
       "browser": "Mull Browser",
       "developer": "DivestOS",
       "engine": "Gecko",
@@ -623,7 +623,7 @@
             },
         {
       "id": "28",
-      "logo": "/user/pages/03.util/01.browser-comparison/ghostery.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/ghostery.png",
       "browser": "Ghostery Dawn",
       "developer": "Ghostery GmbH",
       "engine": "Gecko",
@@ -647,7 +647,7 @@
             {
 
       "id": "29",
-      "logo": "/user/pages/03.util/01.browser-comparison/kiwi.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/kiwi.png",
       "browser": "Kiwi browser",
       "developer": "Geometry OU",
       "engine": "Chromium",
@@ -670,7 +670,7 @@
             },
     {
       "id": "30",
-      "logo": "/user/pages/03.util/01.browser-comparison/comododragon.png",
+      "logo": "/user/pages/03.util/04.browser-comparison/comododragon.png",
       "browser": "Dragon",
       "developer": "Comodo",
       "engine": "Chromium",
@@ -682,7 +682,7 @@
       "webrtc": "Only anonymize",
       "availability": "Windows",
       "sync": "No",
-      "google": "Replaced",
+      "google": "Replaced or proxied services",
       "https": "?",
       "doh": "must be enabled",
       "extensions": "?",
@@ -691,10 +691,34 @@
       "infob": "Sister browser to Comodo IceDragon",
       "search": "?"
     },
-{
+    {
       "id": "31",
-      "logo": "/user/pages/03.util/01.browser-comparison/soulbrowser.png",
-      "browser": "Dragon",
+      "logo": "/user/pages/03.util/04.browser-comparison/comodoicedragon.png",
+      "browser": "IceDragon",
+      "developer": "Comodo",
+      "engine": "Gecko",
+      "source": "Part closed, part open source",
+      "telemetry": "Yes",
+      "track": "?",
+      "script": "Javascript only",
+      "fingerprint": "?",
+      "webrtc": "Can be disabled",
+      "availability": "Windows",
+      "sync": "No",
+      "google": "Replaced or proxied services",
+      "https": "?",
+      "doh": "must be enabled",
+      "extensions": "?",
+      "ath": "-",
+      "infoa": "Initially released in 2010",
+      "infob": "Sister browser to Comodo Dragon",
+      "search": "?"
+    },
+
+{
+      "id": "32",
+      "logo": "/user/pages/03.util/04.browser-comparison/soulbrowser.png",
+      "browser": "Soul Browser",
       "developer": "SoulSoft",
       "engine": "Chromium",
       "source": "Part closed, part open source",
@@ -713,6 +737,29 @@
       "infoa": "Adblocker is compatible with EasyList and AdGuard",
       "infob": "Claims to have torrent and video download support",
       "search": "?"
+    },
+{
+      "id": "33",
+      "logo": "/user/pages/03.util/04.browser-comparison/mullvadlogo.png",
+      "browser": "Mullvad Browser",
+      "developer": "Mullvad",
+      "engine": "Gecko (from Tor specifically)",
+      "source": "Open-source",
+      "telemetry": "No",
+      "track": "Yes; uBlock Origin",
+      "script": "Javascript only",
+      "fingerprint": "Yes",
+      "webrtc": "Can be disabled",
+      "availability": "Windows, macOS, Linux",
+      "sync": "No",
+      "google": "No",
+      "https": "Yes",
+      "doh": "Yes",
+      "extensions": "Yes",
+      "ath": "-",
+      "infoa": "Forked from Tor browser, which is forked from Gecko (Firefox)",
+      "infob": "Designed for direct integration with trusted VPN providers",
+      "search": "DuckDuckGo"
     }
   ]
 }
