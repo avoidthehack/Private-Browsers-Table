@@ -1,6 +1,22 @@
-# Private-Browsers-Table
+<div align="center" markdown="1"><em>
+  
+  Avoid The Hack! (avoidthehack.com) presents</em>:
 
-![favicon](https://user-images.githubusercontent.com/100534728/155898886-22d6de82-6b64-487e-aa65-3234bb1e66d3.png)
+# Private Browser Comparison Tool
+
+[![avoidthehack logo](https://user-images.githubusercontent.com/100534728/155898886-22d6de82-6b64-487e-aa65-3234bb1e66d3.png)](https://links.avoidthehack.com)</div>
+
+<div align="center">
+  <a href="https://infosec.exchange/@avoidthehack">
+  <img src="https://img.shields.io/badge/Follow_@avoidthehack@infosec.exchange-2.8k-blue?logo=mastodon&style=social"></a>  <a href="https://ko-fi.com/avoidthehack"><img src="https://img.shields.io/badge/KoFi-22?logo=kofi&style=social"></a>  <img src="https://img.shields.io/github/stars/avoidthehack?style=social"></div>
+
+<div align="center">
+<img src="https://img.shields.io/github/issues-raw/avoidthehack/Private-Browsers-Table">
+<img src="https://img.shields.io/github/issues-closed-raw/avoidthehack/Private-Browsers-Table">
+<img src="https://img.shields.io/github/issues-pr-closed-raw/avoidthehack/Private-Browsers-Table">
+<img src="https://img.shields.io/github/issues-pr-raw/avoidthehack/Private-Browsers-Table"></div>
+
+## Overview
 
 Not all privacy browsers are built the same; as such they don't deliver the exact same results. This tool aims to fix that by painting an as-complete-as-possible picture of the different privacy browsers out there _before_ users commit to a download/install.
 
@@ -15,6 +31,14 @@ dash (-) = N/A
 **"must be enabled"** = feature is present, but not enabled by default
 
 ? = unknown/information missing (feel free to open an issue with the appropriate information)
+
+## Contributing
+
+- Suggestions: If something is outdated, incorrect, or should be added here, users are encouraged to open an issue. **Read the FAQ before opening an issue.**
+- Enhancements: Everyone is welcomed to fork and hack/modify the code and submit a pull request.
+- Sharing: Sharing this comparison - wherever, however - is greatly appreciated. **Don't forget to star this repo!**
+- If you are feeling extra generous, you can contribute on [Ko-Fi!](https://ko-fi.com/avoidthehack)
+
 
 ## FAQ
 ### Where is Chrome, Edge, Safari?
@@ -38,21 +62,5 @@ More information on TOR:
 The CSV file was deleted.
 
 Users interested in a work around can visit the table where it lives at [avoidthehack](https://avoidthehack.com/util/browser-comparison) and use the "Copy" button to copy the rows (or export to Excel).
-
-## How to Contribute
-
-**The Privacy Browser Comparison Table**
-
-The information in this table is open-source. Any and everyone is encouraged to:
-
-* Add missing information
-* Add new information (to include browsers, table columns, etc)
-* Correct existing information
-
-Any contributions, no matter how big or small are 100% welcomed!
-
-## Share this table!
-
-To help users in deciding which privacy browsers they want to use, it's highly encouraged to share this table!
 
 Share this repo or point to https://avoidthehack.com/util/browser-comparison
