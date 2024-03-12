@@ -22,7 +22,7 @@ Not all privacy browsers are built the same; as such they don't deliver the exac
 
 This privacy browser comparison tool aims to be easily readable and usable for **all** users, regardless of personal technical expertise.
 
-The interactive and fancily rendered version of this table/tool is hosted @ https://avoidthehack.com/util/browser-comparison; we also perform periodic reviews of browsers (https://avoidthehack.com/tools/privacy-browsers)
+The interactive and fancily rendered version of this table/tool is hosted at [https://browsers.avoidthehack.com](https://browsers.avoidthehack.com)
 
 ## Legend
 
@@ -34,7 +34,7 @@ dash (-) = N/A
 
 ## Contributing
 
-- Suggestions: If something is outdated, incorrect, or should be added here, users are encouraged to open an issue. **Read the FAQ before opening an issue.**
+- Suggestions: If something is outdated, incorrect, or should be added here, users are encouraged to open an issue. **Read the [FAQ](https://browsers.avoidthehack.com/#faq) before opening an issue.**
 - Enhancements: Everyone is welcomed to fork and hack/modify the code and submit a pull request.
 - Sharing: Sharing this comparison - wherever, however - is greatly appreciated. **Don't forget to star this repo!**
 - If you are feeling extra generous, you can contribute on [Ko-Fi!](https://ko-fi.com/avoidthehack)
