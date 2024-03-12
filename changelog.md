@@ -1,5 +1,22 @@
 # avoidthehack Privacy Browser Comparison Tool
 
+## 2.0
+* Changed mull browser icon
+* Changed mullvad browser icon
+* Added "details" pages for 35 browsers (entire table)
+* Added Floorp browser (
+* Add Floorp #26)
+* Added Nyxt browser (
+* Add Nyxt browser #28)
+* Corrected existing information for listed browsers
+* Updated dependencies
+* Fixed typos
+* Expanded FAQ
+* Added download links
+* If browser is listed on Privacy Guides, add link to privacy guides
+* Indicate whether browser is recommended on avoidthehack.com (only on "details" pages)
+* If browser is compared on privacytests.org, link to its results on privacytests.org
+
 ## 1.70
 * Fixed paths for open/close icons (so they're actually visible)
 * Added Soul browser
