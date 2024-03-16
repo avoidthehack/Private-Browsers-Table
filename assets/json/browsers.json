@@ -56,7 +56,7 @@
       "fingerprint": "Yes",
       "webrtc": "Yes",
       "availability": "Windows, macOS, Linux",
-      "sync": "No",
+      "sync": "Yes",
       "google": "No",
       "https": "Yes",
       "doh": "must be enabled",
