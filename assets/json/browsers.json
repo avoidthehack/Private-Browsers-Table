@@ -736,6 +736,28 @@
       "doh": "?",
       "extensions": "Lisp-developed only (see details)",
       "search": "?"
-    }
+    },
+    
+{
+      "id": "36",
+      "more": "<a href='/cromite'>Details</a>",
+      "logo": "/assets/logos/cromite.png",
+      "browser": "Cromite",
+      "developer": "uazo (Community driven)",
+      "engine": "Chromium",
+      "source": "Open-source",
+      "telemetry": "No",
+      "track": "Yes",
+      "script": "?",
+      "fingerprint": "Yes",
+      "webrtc": "-",
+      "availability": "Linux, Windows, Android",
+      "sync": "No",
+      "google": "No",
+      "https": "Yes",
+      "doh": "?",
+      "extensions": "?",
+      "search": "Google"
+}
   ]
 }
