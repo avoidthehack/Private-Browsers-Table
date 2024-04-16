@@ -141,7 +141,7 @@ This is because the hardening process with these browsers can be tedious, requir
 
 If you're not familiar with the perils of using browsers like Microsoft and Google Chrome, then please get familiar with how these browsers are terrible for privacy @ the [avoidthehack Privacy Browsers page](https://avoidthehack.com/tools/privacy-browsers)
 
-**Note:** Migrating from Safari on iOS is "limited" due to all third-party browsers on iOS forced to use WebKit (the same rendering engine as Safari). In some cases, it may be best to use Safari on iOS due to fingerprinting issues, while taking care to [tweak some settings](/configure-safari-privacy-ios).
+**Note:** Migrating from Safari on iOS is "limited" due to all third-party browsers on iOS forced to use WebKit (the same rendering engine as Safari). In some cases, it may be best to use Safari on iOS due to fingerprinting issues, while taking care to [tweak some settings](https://avoidthehack.com/configure-safari-privacy-ios).
 
 ### Where is TOR?
 Since TOR is configured to run on the onion (Tor) network, this makes it a completely different animal from just about every browser found here. This isn't necessarily an overly "good" or "bad" thing - just that TOR is _different enough_ to not be included here.
