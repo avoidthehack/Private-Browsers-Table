@@ -1,5 +1,10 @@
 # avoidthehack Privacy Browser Comparison Tool
 
+## 2.0.1
+- Added Cromite
+- Fixed typos
+- Fixed broken links
+
 ## 2.0
 * Changed mull browser icon
 * Changed mullvad browser icon
