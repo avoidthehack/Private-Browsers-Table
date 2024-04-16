@@ -10,7 +10,7 @@ Template: more
 <div class="column" markdown="1">
 # More information: Cromite
 
-Cromite is a fork - and successor - of the defunct Bromite. It had built-in support for adblocking and an "eye for privacy." Its goals include limiting "features" built into the browser used for tracking users' habits and limiting the integration between the browser and the vendor/developer.
+Cromite is a fork - and successor - of the defunct Bromite. It has built-in support for adblocking and an "eye for privacy." Its goals include limiting "features" built into the browser used for tracking users' habits and limiting the integration between the browser and the vendor/developer.
 
 * [Download](https://github.com/uazo/cromite)
 
