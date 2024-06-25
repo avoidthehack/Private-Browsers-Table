@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://infosec.exchange/@avoidthehack">
-  <img src="https://img.shields.io/badge/Follow_@avoidthehack@infosec.exchange-2.8k-blue?logo=mastodon&style=social"></a>  <a href="https://ko-fi.com/avoidthehack"><img src="https://img.shields.io/badge/KoFi-22?logo=kofi&style=social"></a>  <img src="https://img.shields.io/github/stars/avoidthehack?style=social"></div>
+  <img src="https://img.shields.io/badge/Follow_@avoidthehack@infosec.exchange-3.1k-blue?logo=mastodon&style=social"></a>  <a href="https://ko-fi.com/avoidthehack"><img src="https://img.shields.io/badge/KoFi-22?logo=kofi&style=social"></a>  <img src="https://img.shields.io/github/stars/avoidthehack?style=social"></div>
 
 <div align="center">
 <img src="https://img.shields.io/github/issues-raw/avoidthehack/Private-Browsers-Table">
@@ -38,3 +38,9 @@ dash (-) = N/A
 - Enhancements: Everyone is welcomed to fork and hack/modify the code and submit a pull request.
 - Sharing: Sharing this comparison - wherever, however - is greatly appreciated. **Don't forget to star this repo!**
 - If you are feeling extra generous, you can contribute on [Ko-Fi!](https://ko-fi.com/avoidthehack)
+
+## Acknowledgements
+This project wouldn't be possible without the existence of these other projects and their developers/maintainers:
+
+* [DataTables](https://datatables.net/)
+* [PicoCMS](https://picocms.org/)
