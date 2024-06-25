@@ -17,7 +17,7 @@
       "sync": "Yes",
       "google": "Location services",
       "https": "must be enabled",
-      "doh": "Yes",
+      "doh": "Yes/must be enabled (depends on locale)",
       "extensions": "Firefox Add-ons",
       "search": "Google"
     },
