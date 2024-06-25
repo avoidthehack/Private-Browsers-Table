@@ -758,6 +758,27 @@
       "doh": "?",
       "extensions": "?",
       "search": "Google"
+},
+{
+      "id": "37",
+      "more": "<a href='/arc'>Details</a>",
+      "logo": "/assets/logos/arc.png",
+      "browser": "Arc Browser",
+      "developer": "The Browser Company",
+      "engine": "Chromium",
+      "source": "Part closed, part open-source",
+      "telemetry": "Yes",
+      "track": "Yes; uBlock Origin",
+      "script": "?",
+      "fingerprint": "?",
+      "webrtc": "Only anonymize",
+      "availability": "Windows, iOS, macOS",
+      "sync": "Yes (iCloud)",
+      "google": "No",
+      "https": "Yes",
+      "doh": "?",
+      "extensions": "Chrome Web Store Extensions",
+      "search": "Google"
 }
   ]
 }
