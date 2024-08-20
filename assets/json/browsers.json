@@ -265,7 +265,7 @@
       "script": "Javascript only",
       "fingerprint": "?",
       "webrtc": "?",
-      "availability": "Linux",
+      "availability": "Linux, Windows",
       "sync": "No",
       "google": "?",
       "https": "Yes",
