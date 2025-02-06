@@ -1,0 +1,33 @@
+---
+Title:
+Description:
+Template: more
+---
+
+<center><img src="%assets_url%/logos/XXX.png" alt="XXX" class="browser-img"></center>
+
+<br>
+<div class="column" markdown="1">
+# More information: BROWSER
+
+Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. 
+
+Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. Enter text here. 
+
+* [Download](#)
+* This bullet only if listed on [privacytests.org](https://privacytests.org)
+* This bullet if listed on [privacyguides.org](#)
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+## avoidthehack weigh-ins
+
+avoidthehack Recommendation status: N/A
+
+insert info if there are avoidthehack.com posts about it also link with <a class="button" href="https://avoidthehack.com#"> Link </a>
+
+</div>
+</div>
+</div>
