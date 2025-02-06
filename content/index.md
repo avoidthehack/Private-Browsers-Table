@@ -6,7 +6,7 @@
 
 <link href="%assets_url%/css/datatables.css" rel="stylesheet">
 
-<center><a href="https://github.com/avoidthehack/Private-Browsers-Table" target="_blank"><img class="icons" src="%assets_url%//icons/github.svg" alt="github logo icon"> <a href="https://avoidthehack.com/contribute" target="_blank"><img class="icons" src="%assets_url%/icons/donate.svg" alt="hand with a heart icon"></a></center>
+<center><a href="https://github.com/avoidthehack/Private-Browsers-Table" target="_blank"><img class="icons" src="%assets_url%//icons/github.svg" alt="github logo icon"> <a href="https://avoidthehack.com/contribute" target="_blank"><img class="icons" src="%assets_url%/icons/donate.svg" alt="hand with a heart icon"> <a href="https://avoidthehack.com/how-to-bct" target="_blank"><img class="icons" src="%assets_url%/icons/help.svg" alt="life raft help icon"></a></center>
 
 <center><img src="%assets_url%/avoidthehack2.png" alt="avoidthehack logo"></center>
 
