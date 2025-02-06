@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://infosec.exchange/@avoidthehack">
-  <img src="https://img.shields.io/badge/Follow_@avoidthehack@infosec.exchange-3.1k-blue?logo=mastodon&style=social"></a>  <a href="https://ko-fi.com/avoidthehack"><img src="https://img.shields.io/badge/KoFi-22?logo=kofi&style=social"></a>  <img src="https://img.shields.io/github/stars/avoidthehack?style=social"></div>
+  <img src="https://img.shields.io/badge/Follow_@avoidthehack@infosec.exchange-3.5k-blue?logo=mastodon&style=social"></a>  <a href="https://ko-fi.com/avoidthehack"><img src="https://img.shields.io/badge/KoFi-22?logo=kofi&style=social"></a>  <img src="https://img.shields.io/github/stars/avoidthehack?style=social"></div>
 
 <div align="center">
 <img src="https://img.shields.io/github/issues-raw/avoidthehack/Private-Browsers-Table">
